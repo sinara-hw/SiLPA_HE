@@ -44,7 +44,6 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=default
 
 [Preferences]
 PrefsVaultGUID=
@@ -85,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EAYYCROM
 
 [Document3]
-DocumentPath=SiLPA_HE_LVDS_IFC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MJNKMGWL
-
-[Document4]
 DocumentPath=SiLPA_HE_RF_channel_preamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,24 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWHAIACB
 
-[Document5]
-DocumentPath=SiLPA_HE_PWR_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UCPJRFKO
-
-[Document6]
+[Document4]
 DocumentPath=SiLPA_HE_RF_channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IAIFSYEK
 
-[Document7]
+[Document5]
 DocumentPath=SiLPA_HE_RF_detector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,6 +133,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLNXECXT
+
+[Document6]
+DocumentPath=SiLPA_HE_PA_Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PWEMBLAZ
+
+[Document7]
+DocumentPath=SiLPA_HE_PWR_Supply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UCPJRFKO
 
 [Document8]
 DocumentPath=SiLPA_HE.PcbDoc
@@ -255,23 +254,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=SiLPA_HE_LVDS_IFC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
 DocumentPath=..\Panel\Panel_SILPA.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\Panel\Panel_SiLPA.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAIPVNHO
 
-[Document16]
+[Document15]
 DocumentPath=SiLPA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CBXZTOVN
 
-[Document17]
+[Document16]
 DocumentPath=SiLPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,24 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPAKMYEQ
 
-[Document18]
-DocumentPath=SiLPA_HE_PA_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PWEMBLAZ
-
-[Document19]
+[Document17]
 DocumentPath=SiLPA_own.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +338,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DRYIPFNF
 
-[Document20]
+[Document18]
+DocumentPath=SiLPA_HE_LVDS_IFC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJNKMGWL
+
+[Document19]
 DocumentPath=SiLPA_own.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUJWSRDR
 
-[Document21]
+[Document20]
 DocumentPath=SiLPA_HE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,23 +389,49 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVGEJGJI
 
+[Document21]
+DocumentPath=SiLPA_HE_LVDS_IFC.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=9432FE1C-4CFA-4FFC-A183-87197D2B2D90
-Description=default
+Description=DIOT_default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
-Variation1=Designator=IC29|UniqueId=\CXEWHUMV\UKBWKDBE|Kind=1|AlternatePart=
-Variation2=Designator=IC28|UniqueId=\CXEWHUMV\OMMHUIYF|Kind=1|AlternatePart=
-Variation3=Designator=R97|UniqueId=\CXEWHUMV\YNVADAJT|Kind=1|AlternatePart=
-Variation4=Designator=R96|UniqueId=\CXEWHUMV\HLFPCCIO|Kind=1|AlternatePart=
-Variation5=Designator=R25A|UniqueId=\JPVNEDTF\KWPVSIYG|Kind=1|AlternatePart=
-Variation6=Designator=R25B|UniqueId=\BVIHQXPU\KWPVSIYG|Kind=1|AlternatePart=
-Variation7=Designator=IC19|UniqueId=\MPRBNUPJ\HHDMFYOW|Kind=1|AlternatePart=
-Variation8=Designator=R127A|UniqueId=\PRXALODJ\ISFZRAVW|Kind=1|AlternatePart=
-Variation9=Designator=R127B|UniqueId=\MBNVHZJD\ISFZRAVW|Kind=1|AlternatePart=
-Variation10=Designator=R155|UniqueId=\IPHCNWML\TMAMXHGC|Kind=1|AlternatePart=
-Variation11=Designator=R158|UniqueId=\IPHCNWML\YSEQLKKR|Kind=1|AlternatePart=
+VariationCount=12
+Variation1=Designator=IC28|UniqueId=\CXEWHUMV\OMMHUIYF|Kind=1|AlternatePart=
+Variation2=Designator=R25A|UniqueId=\JPVNEDTF\KWPVSIYG|Kind=1|AlternatePart=
+Variation3=Designator=R25B|UniqueId=\BVIHQXPU\KWPVSIYG|Kind=1|AlternatePart=
+Variation4=Designator=IC19|UniqueId=\MPRBNUPJ\HHDMFYOW|Kind=1|AlternatePart=
+Variation5=Designator=R127A|UniqueId=\PRXALODJ\ISFZRAVW|Kind=1|AlternatePart=
+Variation6=Designator=R127B|UniqueId=\MBNVHZJD\ISFZRAVW|Kind=1|AlternatePart=
+Variation7=Designator=R155|UniqueId=\IPHCNWML\TMAMXHGC|Kind=1|AlternatePart=
+Variation8=Designator=R158|UniqueId=\IPHCNWML\YSEQLKKR|Kind=1|AlternatePart=
+Variation9=Designator=R7A|UniqueId=\SBPNPDYS\JXYMVWJF|Kind=1|AlternatePart=
+Variation10=Designator=R7B|UniqueId=\YOAVTQIV\JXYMVWJF|Kind=1|AlternatePart=
+Variation11=Designator=R8A|UniqueId=\SBPNPDYS\VARHIUGF|Kind=1|AlternatePart=
+Variation12=Designator=R8B|UniqueId=\YOAVTQIV\VARHIUGF|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=8ec24416-4ebe-4b39-8284-14dcaffcd1d2
+Description=EEM_default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1109,6 +1117,14 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1193,6 +1209,11 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1356,6 +1377,8 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
