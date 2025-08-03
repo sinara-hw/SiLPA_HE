@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DRYIPFNF
 
 [Document18]
-DocumentPath=SiLPA_HE_LVDS_IFC.SchDoc
+DocumentPath=SiLPA_HE_EEM_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EVGEJGJI
 
 [Document21]
-DocumentPath=SiLPA_HE_LVDS_IFC.Harness
+DocumentPath=SiLPA_HE_EEM_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -411,19 +411,18 @@ UniqueId=9432FE1C-4CFA-4FFC-A183-87197D2B2D90
 Description=DIOT_default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=12
+VariationCount=11
 Variation1=Designator=IC28|UniqueId=\CXEWHUMV\OMMHUIYF|Kind=1|AlternatePart=
 Variation2=Designator=R25A|UniqueId=\JPVNEDTF\KWPVSIYG|Kind=1|AlternatePart=
 Variation3=Designator=R25B|UniqueId=\BVIHQXPU\KWPVSIYG|Kind=1|AlternatePart=
-Variation4=Designator=IC19|UniqueId=\MPRBNUPJ\HHDMFYOW|Kind=1|AlternatePart=
-Variation5=Designator=R127A|UniqueId=\PRXALODJ\ISFZRAVW|Kind=1|AlternatePart=
-Variation6=Designator=R127B|UniqueId=\MBNVHZJD\ISFZRAVW|Kind=1|AlternatePart=
-Variation7=Designator=R155|UniqueId=\IPHCNWML\TMAMXHGC|Kind=1|AlternatePart=
-Variation8=Designator=R158|UniqueId=\IPHCNWML\YSEQLKKR|Kind=1|AlternatePart=
-Variation9=Designator=R7A|UniqueId=\SBPNPDYS\JXYMVWJF|Kind=1|AlternatePart=
-Variation10=Designator=R7B|UniqueId=\YOAVTQIV\JXYMVWJF|Kind=1|AlternatePart=
-Variation11=Designator=R8A|UniqueId=\SBPNPDYS\VARHIUGF|Kind=1|AlternatePart=
-Variation12=Designator=R8B|UniqueId=\YOAVTQIV\VARHIUGF|Kind=1|AlternatePart=
+Variation4=Designator=R127A|UniqueId=\PRXALODJ\ISFZRAVW|Kind=1|AlternatePart=
+Variation5=Designator=R127B|UniqueId=\MBNVHZJD\ISFZRAVW|Kind=1|AlternatePart=
+Variation6=Designator=R155|UniqueId=\IPHCNWML\TMAMXHGC|Kind=1|AlternatePart=
+Variation7=Designator=R158|UniqueId=\IPHCNWML\YSEQLKKR|Kind=1|AlternatePart=
+Variation8=Designator=R7A|UniqueId=\SBPNPDYS\JXYMVWJF|Kind=1|AlternatePart=
+Variation9=Designator=R7B|UniqueId=\YOAVTQIV\JXYMVWJF|Kind=1|AlternatePart=
+Variation10=Designator=R8A|UniqueId=\SBPNPDYS\VARHIUGF|Kind=1|AlternatePart=
+Variation11=Designator=R8B|UniqueId=\YOAVTQIV\VARHIUGF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -431,7 +430,16 @@ UniqueId=8ec24416-4ebe-4b39-8284-14dcaffcd1d2
 Description=EEM_default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=9
+Variation1=Designator=R155|UniqueId=\IPHCNWML\TMAMXHGC|Kind=1|AlternatePart=
+Variation2=Designator=R158|UniqueId=\IPHCNWML\YSEQLKKR|Kind=1|AlternatePart=
+Variation3=Designator=IC28|UniqueId=\CXEWHUMV\OMMHUIYF|Kind=1|AlternatePart=
+Variation4=Designator=R7A|UniqueId=\SBPNPDYS\JXYMVWJF|Kind=1|AlternatePart=
+Variation5=Designator=R7B|UniqueId=\YOAVTQIV\JXYMVWJF|Kind=1|AlternatePart=
+Variation6=Designator=R8A|UniqueId=\SBPNPDYS\VARHIUGF|Kind=1|AlternatePart=
+Variation7=Designator=R8B|UniqueId=\YOAVTQIV\VARHIUGF|Kind=1|AlternatePart=
+Variation8=Designator=R25A|UniqueId=\JPVNEDTF\KWPVSIYG|Kind=1|AlternatePart=
+Variation9=Designator=R25B|UniqueId=\BVIHQXPU\KWPVSIYG|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
