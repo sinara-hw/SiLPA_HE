@@ -15,10 +15,10 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=SiLPA.OutJob
+Name=SiLPA_HE.OutJob
 Description=
 TargetOutputMedium=PDF_SiLPA
-VariantName=[No Variations]
+VariantName=DIOT_default
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -109,7 +109,7 @@ OutputEnabled3_OutputMedium2=3
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=2
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.13|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
 Configuration3_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=39390063|ViewY=13602661|LookAtX=49004724|LookAtY=41584644|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.0205619625437E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Enter%20description%20of%20new%20view%20configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\316777215\2CFG3D.BOARDCORECOLOR\30\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\33307556\2CFG3D.BOTSOLDERMASKCOLOR\33307556\2CFG3D.COPPERCOLOR\32402753\2CFG3D.TOPSILKSCREENCOLOR\316448250\2CFG3D.BOTSILKSCREENCOLOR\316448250\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.500000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.600000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\SiLPA.PcbDoc
 OutputType4=PCB 3D Print
@@ -123,7 +123,7 @@ OutputEnabled4_OutputMedium2=4
 OutputEnabled4_OutputMedium3=0
 OutputEnabled4_OutputMedium4=3
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.13|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.09|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=39390063|ViewY=13602661|LookAtX=49004724|LookAtY=41584644|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=1.0205619625437E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ScreenWidth=0|ScreenHeight=0|ViewConfig=|DocumentPath=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\SiLPA.PcbDoc
 OutputType5=Assembly
@@ -317,9 +317,9 @@ Configuration13_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Ful
 PcbPrintPreferences13=
 
 [PublishSettings]
-OutputFilePath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\SiLPA.PDF
+OutputFilePath2=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\SiLPA.PDF
 ReleaseManaged2=0
-OutputBasePath2=Project Outputs for SiLPA\
+OutputBasePath2=Project Outputs for SiLPA_HE\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -344,9 +344,9 @@ ShowComponentParameters2=0
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\
+OutputFilePath3=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\
 ReleaseManaged3=0
-OutputBasePath3=Project Outputs for SiLPA\
+OutputBasePath3=Project Outputs for SiLPA_HE\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -357,9 +357,9 @@ OutputFileNameMulti3=9912
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\Phaser_SCH(Baseband).PDF
+OutputFilePath4=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\SiLPA.pdf
 ReleaseManaged4=0
-OutputBasePath4=Project Outputs for SiLPA\
+OutputBasePath4=Project Outputs for SiLPA_HE\
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -386,9 +386,9 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\SiLPA.PDF
+RelativeOutputPath2=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\SiLPA.PDF
 OpenOutputs2=1
-RelativeOutputPath3=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\
+RelativeOutputPath3=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -398,6 +398,6 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=D:\Dropbox\DESIGNS\Sinara_ALTIUM\EEMs\SiLPA\PCB\Project Outputs for SiLPA\Phaser_SCH(Baseband).PDF
+RelativeOutputPath4=C:\Users\stani\Desktop\SiLPA_HE\PCB\Project Outputs for SiLPA_HE\SiLPA.pdf
 OpenOutputs4=1
 
